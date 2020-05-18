@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* width: 75vh; */
+}
+.thought-button {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.posts-container {
+    
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 30px;
+
+}

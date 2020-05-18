@@ -1,0 +1,21 @@
+.post-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.post {
+    display: flex;
+    flex-direction: column;
+}
+.post-title {
+    font-size: 20px;
+    font-weight: 900;
+}
+.post-thought {
+    font-size: 13px;
+}
+.trash-button {
+    background: none;
+    border: none;
+    font-size: 15px;
+}
